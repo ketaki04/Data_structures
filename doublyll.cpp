@@ -1,6 +1,7 @@
-
+//Doubly linked list
 //implementing reverse linkedlist ,inserting at head at tail,
 //and printing the list in revese order
+
 
 #include<iostream>
 using namespace std;

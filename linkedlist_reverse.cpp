@@ -1,5 +1,17 @@
 //reverse the linked list using itteartive and recursion method
 
+/*
+Function to reverse print the linked list without accually reversing it
+-----------------------------------------------------------------------------------------
+void reversePrint(SinglyLinkedListNode* head) {
+
+if(head==NULL)
+return;
+ reversePrint(head->next);
+    cout<<head->data<<endl;
+}
+*/
+
 
 #include<iostream>
 using namespace std;
